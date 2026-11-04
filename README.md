@@ -1,3 +1,9 @@
+> **Repository context:** This is Ankit Mukherjee's fork of [harvardinformatics/learning-bioinformatics-at-home](https://github.com/harvardinformatics/learning-bioinformatics-at-home). A reference collection for practical bioinformatics learning across Unix, R, Python, sequencing, and single-cell analysis. The upstream authors' resource list, attribution, and notices are retained below. Inclusion in this portfolio reflects a reference collection; it does not claim authorship of the listed tools or completion of every resource.
+>
+> For applied research and original analysis code, see the [research portfolio](https://github.com/AnkitMukherji/CV).
+
+---
+
 # Learning Bioinformatics At Home
 
 Some resources gathered by the [Harvard Informatics group](https://informatics.fas.harvard.edu) and other contributors to help people learn bioinformatics tools (basic and specialized) at home.
